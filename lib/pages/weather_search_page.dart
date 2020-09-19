@@ -8,7 +8,7 @@ class WeatherSearchPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Weather Search"),
+        title: Text("Weather Search App"),
       ),
       body: Container(
         padding: EdgeInsets.symmetric(vertical: 16),
